@@ -10,6 +10,7 @@
 ## 2017
 ### CASENet Deep Category-Aware Semantic Edge Detection [[paper]](https://arxiv.org/abs/1705.09759)
 "semantic edge detection"
+### Holistically-Nested Edge Detection IJCV 2017 [[paper]](https://link.springer.com/article/10.1007/s11263-017-1004-z)
 
 ## 2018
 ### Semantic Edge Detection with Diverse Deep Supervision [[paper]](https://arxiv.org/abs/1804.02864)
