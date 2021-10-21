@@ -6,9 +6,10 @@
 
 ## 2015
 ### DeepEdge A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection CVPR 2015 [[paper]](http://openaccess.thecvf.com/content_cvpr_2015/html/Bertasius_DeepEdge_A_Multi-Scale_2015_CVPR_paper.html)
-### DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection CVPR 2015 [[paper]](http://openaccess.thecvf.com/content_cvpr_2015/html/Shen_DeepContour_A_Deep_2015_CVPR_paper.html)
+### DeepContour A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection CVPR 2015 [[paper]](http://openaccess.thecvf.com/content_cvpr_2015/html/Shen_DeepContour_A_Deep_2015_CVPR_paper.html)
 ### Holistically-Nested Edge Detection ICCV 2015 [[paper]](https://ieeexplore.ieee.org/document/7410521/) [[paper]]((http://openaccess.thecvf.com/content_iccv_2015/html/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.html))
 ### High-for-Low and Low-for-High: Efficient Boundary Detection From Deep Object Features and its Applications to High-Level Vision ICCV 2015 [[paper]](http://openaccess.thecvf.com/content_iccv_2015/html/Bertasius_High-for-Low_and_Low-for-High_ICCV_2015_paper.html)
+### Pushing the Boundaries of Boundary Detection using Deep Learning arXiv [[paper]](https://arxiv.org/abs/1511.07386)
 
 ## 2016
 ### Object Contour Detection with a Fully Convolutional Encoder-Decoder Network CVPR 2016 [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Object_Contour_Detection_CVPR_2016_paper.html)
@@ -18,10 +19,10 @@
 ## 2017
 ### CASENet Deep Category-Aware Semantic Edge Detection CVPR 2017 [[paper]](https://arxiv.org/abs/1705.09759) [[CVPR paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Yu_CASENet_Deep_Category-Aware_CVPR_2017_paper.html)
 "semantic edge detection"
-### Richer Convolutional Features for Edge Detection CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Liu_Richer_Convolutional_Features_CVPR_2017_paper.html)
+### Deep Crisp Boundaries CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Wang_Deep_Crisp_Boundaries_CVPR_2017_paper.html)
 ### Holistically-Nested Edge Detection IJCV 2017 [[paper]](https://link.springer.com/article/10.1007/s11263-017-1004-z)
 ### Learning Deep Structured Multi-Scale Features using Attention-Gated CRFs for Contour Prediction NIPS 2017 [[paper]](http://papers.nips.cc/paper/6985-learning-deep-structured-multi-scale-features-using-attention-gated-crfs-for-contour-prediction)
-### Deep Crisp Boundaries CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Wang_Deep_Crisp_Boundaries_CVPR_2017_paper.html)
+### Richer Convolutional Features for Edge Detection CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Liu_Richer_Convolutional_Features_CVPR_2017_paper.html)
 
 ## 2018
 ### Semantic Edge Detection with Diverse Deep Supervision arXic 2018 [[paper]](https://arxiv.org/abs/1804.02864)
@@ -39,3 +40,9 @@
 "gan"
 ### Deep Crisp Boundaries: From Boundaries to Higher-Level Tasks IEEE TIP 2019 [[paper]](https://ieeexplore.ieee.org/document/8485388)
 ### Bi-Directional Cascade Network for Perceptual Edge Detection CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/He_Bi-Directional_Cascade_Network_for_Perceptual_Edge_Detection_CVPR_2019_paper.html)
+### Richer Convolutional Features for Edge Detection IEEE TPAMI [[paper]](https://ieeexplore.ieee.org/document/8516362)
+
+## 2020
+### Dense Extreme Inception Network Towards a Robust CNN Model for Edge Detection WACV 2020 [[paper]](https://ieeexplore.ieee.org/document/9093290) [[arXiv paper]](https://arxiv.org/abs/1909.01955)
+### FINED Fast Inference Network for Edge Detection arXiv 2020 [[paper]](https://arxiv.org/abs/2012.08392)
+### Traditional Method Inspired Deep Neural Network for Edge Detection IEEE ICIP [[arXiv paper]](https://arxiv.org/abs/2005.13862)
